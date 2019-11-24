@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/goit-react-hw-04-movies/./static/css/main.c7cb0ca9.chunk.css",
-    "main.js": "/goit-react-hw-04-movies/./static/js/main.8fe73615.chunk.js",
-    "main.js.map": "/goit-react-hw-04-movies/./static/js/main.8fe73615.chunk.js.map",
+    "main.js": "/goit-react-hw-04-movies/./static/js/main.9a71d4f3.chunk.js",
+    "main.js.map": "/goit-react-hw-04-movies/./static/js/main.9a71d4f3.chunk.js.map",
     "runtime-main.js": "/goit-react-hw-04-movies/./static/js/runtime-main.08d3c691.js",
     "runtime-main.js.map": "/goit-react-hw-04-movies/./static/js/runtime-main.08d3c691.js.map",
-    "static/js/2.ee3501b9.chunk.js": "/goit-react-hw-04-movies/./static/js/2.ee3501b9.chunk.js",
-    "static/js/2.ee3501b9.chunk.js.map": "/goit-react-hw-04-movies/./static/js/2.ee3501b9.chunk.js.map",
+    "static/js/2.f788ca13.chunk.js": "/goit-react-hw-04-movies/./static/js/2.f788ca13.chunk.js",
+    "static/js/2.f788ca13.chunk.js.map": "/goit-react-hw-04-movies/./static/js/2.f788ca13.chunk.js.map",
     "index.html": "/goit-react-hw-04-movies/./index.html",
-    "precache-manifest.c4b944a362eebe99c100d2ee5fbabeb0.js": "/goit-react-hw-04-movies/./precache-manifest.c4b944a362eebe99c100d2ee5fbabeb0.js",
+    "precache-manifest.aeb6ebb1b0d6b5cc743553c68a5e29d7.js": "/goit-react-hw-04-movies/./precache-manifest.aeb6ebb1b0d6b5cc743553c68a5e29d7.js",
     "service-worker.js": "/goit-react-hw-04-movies/./service-worker.js",
     "static/css/main.c7cb0ca9.chunk.css.map": "/goit-react-hw-04-movies/./static/css/main.c7cb0ca9.chunk.css.map",
     "static/media/MovieDetailsCard.module.css": "/goit-react-hw-04-movies/./static/media/depotemplate-popcorn-soda.02dccdc4.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.08d3c691.js",
-    "static/js/2.ee3501b9.chunk.js",
+    "static/js/2.f788ca13.chunk.js",
     "static/css/main.c7cb0ca9.chunk.css",
-    "static/js/main.8fe73615.chunk.js"
+    "static/js/main.9a71d4f3.chunk.js"
   ]
 }
