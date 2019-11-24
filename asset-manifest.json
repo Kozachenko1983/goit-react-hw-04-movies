@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-04-movies/./static/css/main.c7cb0ca9.chunk.css",
+    "main.js": "/goit-react-hw-04-movies/./static/js/main.0cd87777.chunk.js",
+    "main.js.map": "/goit-react-hw-04-movies/./static/js/main.0cd87777.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-04-movies/./static/js/runtime-main.08d3c691.js",
+    "runtime-main.js.map": "/goit-react-hw-04-movies/./static/js/runtime-main.08d3c691.js.map",
+    "static/js/2.bf7c8d3a.chunk.js": "/goit-react-hw-04-movies/./static/js/2.bf7c8d3a.chunk.js",
+    "static/js/2.bf7c8d3a.chunk.js.map": "/goit-react-hw-04-movies/./static/js/2.bf7c8d3a.chunk.js.map",
+    "index.html": "/goit-react-hw-04-movies/./index.html",
+    "precache-manifest.74d45e1ae0ea4b5fa3a02e309f2f69e5.js": "/goit-react-hw-04-movies/./precache-manifest.74d45e1ae0ea4b5fa3a02e309f2f69e5.js",
+    "service-worker.js": "/goit-react-hw-04-movies/./service-worker.js",
+    "static/css/main.c7cb0ca9.chunk.css.map": "/goit-react-hw-04-movies/./static/css/main.c7cb0ca9.chunk.css.map",
+    "static/media/MovieDetailsCard.module.css": "/goit-react-hw-04-movies/./static/media/depotemplate-popcorn-soda.02dccdc4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08d3c691.js",
+    "static/js/2.bf7c8d3a.chunk.js",
+    "static/css/main.c7cb0ca9.chunk.css",
+    "static/js/main.0cd87777.chunk.js"
+  ]
+}
