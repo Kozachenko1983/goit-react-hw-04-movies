@@ -1,0 +1,11 @@
+.icon {
+  color: rgb(66, 54, 54);
+}
+
+.button {
+  margin: 5px;
+  background: none;
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+}
