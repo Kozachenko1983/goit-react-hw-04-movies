@@ -32,7 +32,7 @@ export default class Cast extends Component {
         {!!cast.length && (
           <ul className={styles.list}>
             {cast.map(item => (
-              <li className={styles.listItem} key={item.cast_id}>
+              <li className={styles.listItem} key={item.cast_id} name="scroll-to-element">
                 <ActorCard cast={item} />
               </li>
             ))}

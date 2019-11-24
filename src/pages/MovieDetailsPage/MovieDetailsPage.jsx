@@ -20,8 +20,8 @@ export default class MovieDetailsPage extends Component {
     }).isRequired,
     location: PropTypes.shape({
       state: PropTypes.shape({
-        from: PropTypes.object.isRequired,
-      }).isRequired,
+        from: PropTypes.object,
+      }),
     }).isRequired,
   };
 
@@ -52,7 +52,7 @@ export default class MovieDetailsPage extends Component {
 
   render() {
     const { details, isLoading, error } = this.state;
-    const { match } = this.props;
+    const { match, location } = this.props;
     return (
       <div>
         <ButtonBack onGoback={this.handleGoback} />
@@ -61,7 +61,7 @@ export default class MovieDetailsPage extends Component {
         {!!Object.keys(details).length && (
           <div>
             <MovieDetailsCard details={details} />
-            <MoreInfo details={details} />
+            <MoreInfo details={details} location={location.state} />
             <Route path={`${match.path}/cast`} component={Cast} />
             <Route path={`${match.path}/reviews`} component={Reviews} />
           </div>

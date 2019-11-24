@@ -28,11 +28,11 @@ const MovieDetailsCard = ({ details }) => (
 );
 MovieDetailsCard.propTypes = {
   details: PropTypes.shape({
-    poster_path: PropTypes.string.isRequired,
-    title: PropTypes.string.isRequired,
-    vote_average: PropTypes.number.isRequired,
-    overview: PropTypes.string.isRequired,
-    genres: PropTypes.array.isRequired,
+    poster_path: PropTypes.string,
+    title: PropTypes.string,
+    vote_average: PropTypes.number,
+    overview: PropTypes.string,
+    genres: PropTypes.array,
   }).isRequired,
 };
 

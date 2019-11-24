@@ -19,7 +19,9 @@ const MoviesList = ({ movies, location }) => (
 );
 MoviesList.propTypes = {
   movies: PropTypes.arrayOf(PropTypes.object).isRequired,
-  location: PropTypes.objectOf(PropTypes.string).isRequired,
+  location: PropTypes.shape({
+    state: PropTypes.string,
+  }).isRequired,
 };
 
 export default MoviesList;
